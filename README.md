@@ -2,7 +2,7 @@
 
 This repository contains the implementation and report of my graduation project titled:
 
-**Early Warning System for Financial Fraud Detection Using Time-Series Analysis**
+**Early Warning System for Financial Fraud Detection**
 
 ## Project Contents
 - `CV_GP2.ipynb`: Jupyter Notebook containing the full implementation.
